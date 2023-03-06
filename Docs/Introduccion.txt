@@ -1,0 +1,11 @@
+Pharos project
+
+El propósito de Pharos es el conocimiento, la forma en la que se distribuye, se califica y se certifica.
+
+Pharos nace de la necesidad de tener una plataforma multipropósito que permita extender el aprendizaje a una experiencia más fácil de para adquirir conocimiento, distribuirlo y calificarlo, así como tener un mejor control del mismo por parte del mentor y de fácil acceso al aprendiz.
+
+Pero Pharos no es solo una plataforma para adquirir aprendizaje, también para verificarlo y calificarlo. El conocimiento puede ser agregado a la plataforma, validado y actualizado por los mentores o autoridades encargadas de auditarlo, además de que puede servir para calificarlo por medio de plantillas que permiten generar evaluaciones dinámicas para ser presentado de forma aleatoria a los aprendices y generar reportes de evaluación a distintas escalas (alumno o grupo por materia, área, departamento y en distintos periodos de tiempo).
+
+Para Pharos, los aprendices y los mentores son los actores principales pero no son los únicos, también personal administrativo de las instituciones afiliadas al proyecto pueden tener acceso a la plataforma, ya sea con el objetivo de consulta o como personal auxiliar.
+
+Pharos es el inicio de una nueva forma de compartir el conocimiento, evaluarlo y conocer las áreas de oportunidad para que los aprendices se superen para seguir los pasos del avance que se requiere para seguir progresando en sociedad.
